@@ -1,0 +1,1 @@
+{"data":[{"type":"pool","id":"solana_pair1","relationships":{"base_token":{"data":{"type":"token","id":"solana_So11111111111111111111111111111111111111112"}}}}],"included":[{"type":"token","id":"solana_So11111111111111111111111111111111111111112","attributes":{"address":"So11111111111111111111111111111111111111112","name":"Wrapped SOL"}}]}
